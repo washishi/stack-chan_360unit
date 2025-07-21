@@ -5,7 +5,7 @@ Rotation unit for Takao's SCS0009 version stack chan
 -  タカヲ([@mongonta555](https://x.com/mongonta555))さんの [SCS0009サーボ専用 ｽﾀｯｸﾁｬﾝ](https://raspberrypi.mongonta.com/about-products-stackchan-m5gobottom-version/) を回転させてもUSBケーブルが邪魔にならないようにするユニットです
 - [【SCS0009専用】ｽﾀｯｸﾁｬﾝ タカオ版 ケースセット](https://mongonta.booth.pm/items/5186064)に後付けできます
 -  M5Coreへの電源供給は Groveポート経由、USBコネクタ経由(外部/内部)いずれかで行うことができます  
--  USBコネクタに接続した場合は電源の供給だけでなくデータ通信も行うことができます
+-  USBコネクタ(外部/内部)を利用した場合は電源の供給だけでなくデータ通信も行うことができます
   
 <img src="docs/images/rolling.gif" width="500px"><br>
 <img src="docs/images/360-a.png" width="200px"><img src="docs/images/360-a2.png" width="200px"><img src="docs/images/360-b.png" width="200px"><br>
