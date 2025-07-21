@@ -68,8 +68,7 @@ BOOTHで頒布する[タカヲ版 SCS0009 ｽﾀｯｸﾁｬﾝ用 360ユニッ�
  <img src="docs/images/spacer2.png" width="300px"><img src="docs/images/spacer(cut).png" width="300px"><br>
 
 6. 360ユニット 基板Aを写真の向きでサーボにはめてからｽﾀｯｸﾁｬﾝの足を再度取り付けます  
-<img src="docs/images/360-a3.png" width="300px">
-<img src="docs/images/feet3.png" width="300px"><br>
+<img src="docs/images/360-a3.png" width="300px"><img src="docs/images/feet3.png" width="300px"><br>
 ※足をねじ止めする前に次の「7.配線」を行った方が配線がしやすいかもしれません
 
 7. 配線  
@@ -89,11 +88,9 @@ BOOTHで頒布する[タカヲ版 SCS0009 ｽﾀｯｸﾁｬﾝ用 360ユニッ�
 
    - USBとGroveの両方の配線を行ってもスイッチで切替となるので問題ありません  
    - ※CoreS3の初期ロット？では内部USBコネクタが実装されていません  
-<img src="docs/images/360-a.png" width="300px"> 
-<img src="docs/images/ExtUSB.png" width="300px">  
+<img src="docs/images/360-a.png" width="300px"><img src="docs/images/ExtUSB.png" width="300px">  
 USB(内部)コネクタ(左写真)、USB(内部)コネクタ利用でLLMモジュールを付ける場合はLLMモジュールの基板下に少し隙間があるので一度基板を止めているネジを外して通してください(右写真)  
-<img src="docs/images/IntUSB.png" width="300px"> 
-<img src="docs/images/LLM.png" width="300px">
+<img src="docs/images/IntUSB.png" width="300px"><img src="docs/images/LLM.png" width="300px">
 
 配線の完了で作業は完了です  
 
