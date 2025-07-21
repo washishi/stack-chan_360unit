@@ -86,8 +86,8 @@ USB Type-Cコネクタを刺すため厚さは0.8mmです
     |USB<br>(内部)|「To M5 USB」と M5Core2,S3系(※)の内部USBコネクタを「USB(内部)用ケーブル」で繋ぎます|USB側|可|  
     |Grove|M5CoreやGOBottomのGroveポートを「GROVEケーブル」で「To M5」のGroveポート(横)と繋ぎます、TakaoBASEは「To TakaoBase」のGroveポート(縦)に繋ぎます|Grove側|不可|  
 
-   - USBとGroveの両方の配線を行ってもスイッチで切替となるので問題ありません  
-   - ※CoreS3の初期ロット？では内部USBコネクタが実装されていません  
+   - USBとGroveの両方の配線を行っても電源の供給先はスイッチで切替となるので問題ありません  
+   - ※CoreS3の初期ロット？では内部USBコネクタが実装されていません(使う場合はCoreS3を分解して自分で実装する必要があります)  
 <img src="docs/images/360-a.png" width="300px"><img src="docs/images/ExtUSB.png" width="300px">  
 USB(内部)コネクタ(左写真)、USB(内部)コネクタ利用でLLMモジュールを付ける場合はLLMモジュールの基板下に少し隙間があるので一度基板を止めているネジを外して通してください(右写真)  
 <img src="docs/images/IntUSB.png" width="300px"><img src="docs/images/LLM.png" width="300px">
