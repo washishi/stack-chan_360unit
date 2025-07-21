@@ -20,10 +20,10 @@ BOOTHで頒布する[タカヲ版 SCS0009 ｽﾀｯｸﾁｬﾝ用 360ユニッ�
    電源元のUSBからの受電部です ここにACアダプタ等を接続します(同時に他の場所等の2か所から給電しないでください)  
    USB Type-C コネクタ部分は スーザン＠子育てエンジニア([@suzan_works](https://x.com/suzan_works)
 )さんの  
-[プリント基板製USB-Cコネクタ](https://suzan-works.booth.pm/items/6574802)の[設計データ](https://github.com/suzan-works/USB-C_PCB_Receptacle)を利用させてもらっています
-
+[プリント基板製USB-Cコネクタ](https://suzan-works.booth.pm/items/6574802)の[設計データ](https://github.com/suzan-works/USB-C_PCB_Receptacle)を利用させてもらっています  
+USB Type-Cコネクタを刺すため厚さは0.8mmです
 3. サーボ用スペーサー
-   360Unitの接点の入る厚みを確保するために足側のサーボとブラケットの間に挟みます  
+   360Unitの接点の入る厚みを確保するために足側のサーボとブラケットの間に挟みます
 4. USB(外部)用ケーブル  
    M5CoreのUSB Type-C 端子と接続する場合に利用するケーブルです  
    LLMモジュールを付けている場合はそちらのUSB Type-C端子に接続することもできます  
@@ -112,7 +112,7 @@ CoreとUSBケーブル(外部/内部)で接続している場合はPCと繋ぐ�
 |名称|仕様|メーカー|個数|備考|備考購入先|  
 |:--|:--|:-:|:-:|:--|:--|  
 |基板|stack-chan 360Unit A基板|-|1||[JLCPCB](https://jlcpcb.com/JPV)へ発注|
-|基板|stack-chan 360Unit B基板|-|1||[JLCPCB](https://jlcpcb.com/JPV)へ発注|
+|基板|stack-chan 360Unit B基板|-|1|厚さ0.8mm|[JLCPCB](https://jlcpcb.com/JPV)へ発注|
 |チップ抵抗|5.1KΩ 1608サイズ|-|2||[秋月電子](https://akizukidenshi.com/catalog/g/g130338/)100個セット|
 |チップ積層セラミックコンデンサ|100uF 10V 3216サイズ|-|1||[秋月電子](https://akizukidenshi.com/catalog/g/g115633/)10個セット|
 |スイッチ|2.5mmピッチ SPDT サイド型|-|1||[秋月電子](https://akizukidenshi.com/catalog/g/g115370/)|
