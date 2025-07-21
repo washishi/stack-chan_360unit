@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2",1206,2,100uF,
+"J1, J2",BatteryConector_1.27mm_4P,2,BAT_Connector_01x04,
+J3,NS-Tech_Grove_1x04_P2mm_Vertical,1,HY2.0-4P,
+J4,CON_GROVE_H,1,HY2.0-4P,
+J5,Molex_PicoBlade_53047-0410_1x04_P1.25mm_Vertical,1,PicoBlade-4P,
+SW1,SW_Slide-03_Wuerth-WS-SLTV_9x3.5x3.5_P2.54mm,1,SW_SPDT,

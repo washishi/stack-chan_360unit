@@ -1,0 +1,137 @@
+(footprint "SW_Slide-03_Wuerth-WS-SLTV_9x3.5x3.5_P2.54mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Wuerth, WS-SLTV, 450301014042, https://www.we-online.com/components/products/datasheet/450301014042.pdf")
+	(tags "switch single-pole opposite-side-connection double-throw SPDT würth wurth")
+	(property "Reference" "SW1"
+		(at 0 -3.5 180)
+		(layer "F.SilkS")
+		(uuid "c3d84b05-7162-4136-a384-943ad324fb46")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_SPDT"
+		(at 0 3.81 180)
+		(layer "F.Fab")
+		(uuid "dd499f4c-8573-4886-98d9-5302b6493f70")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0ac63968-3324-46b9-bb0c-c7000f074035")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Switch, single pole double throw"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dc1f9ded-4a84-451e-ae7f-82b7d7cc0042")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -4.61 -2.36)
+		(end 4.61 1.36)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "5e04d831-a475-45d3-9117-db52d5fde565")
+	)
+	(fp_rect
+		(start -4.75 -2.5)
+		(end 4.75 1.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "a88e26e3-13d1-43f6-9798-0e198be7b03b")
+	)
+	(fp_rect
+		(start -4.5 -2.25)
+		(end 4.5 1.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "50a58354-5a8a-40b5-9480-c6844243f3e6")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.54 180)
+		(layer "F.Fab")
+		(uuid "8738ceb8-c9b5-4a2d-99be-251b9aa5b14f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.5 1.5)
+		(drill 0.8)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4a2c43fe-7e99-4f71-8d85-b6ada7eb6ea5")
+	)
+	(pad "2" thru_hole circle
+		(at -2.54 0)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8fe18611-04f2-4254-b876-f7ffb647581c")
+	)
+	(pad "3" thru_hole circle
+		(at 2.54 0)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "F&B.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "392577d8-1392-41a5-9dc0-e193ea11e11f")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Local_Library.pretty/3D_Model/sk-3260d-01-l1.stp"
+		(offset
+			(xyz 0 -0.8 1.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

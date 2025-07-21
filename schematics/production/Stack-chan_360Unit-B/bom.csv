@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,RingTerminal,1,~,
+J2,USB-C_PCBPLUG,1,USB_C_Receptacle_USB2.0,
+"R1, R2",0603,2,5.1k,
