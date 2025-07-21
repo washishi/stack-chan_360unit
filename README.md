@@ -6,8 +6,9 @@ Rotation unit for Takao's SCS0009 version stack chan
 - [【SCS0009専用】ｽﾀｯｸﾁｬﾝ タカオ版 ケースセット](https://mongonta.booth.pm/items/5186064)に後付けできます
 -  M5Coreへの電源供給は Groveポート経由、USBコネクタ経由(外部/内部)いずれかで行うことができます  
 -  USBコネクタに接続した場合は電源の供給だけでなくデータ通信も行うことができます
-<img src="docs/images/rolling.gif" width="300px"><img src="docs/images/360-a.png" width="300px"><br>
-<img src="docs/images/360-a2.png" width="300px"><img src="docs/images/360-b.png" width="300px"><br>
+  
+<img src="docs/images/rolling.gif" width="500px"><br>
+<img src="docs/images/360-a.png" width="200px"><img src="docs/images/360-a2.png" width="200px"><img src="docs/images/360-b.png" width="200px"><br>
 
 ## BOOTHで頒布するセットの説明
 BOOTHで頒布する[タカヲ版 SCS0009 ｽﾀｯｸﾁｬﾝ用 360ユニット セット](https://washishi.booth.pm/items/7204147)は下記のセットとなっています
